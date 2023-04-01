@@ -1,6 +1,5 @@
 import turtle
 import time
-import tkinter as TK
 
 
 # Set up the screen
